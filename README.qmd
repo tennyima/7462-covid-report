@@ -1,5 +1,6 @@
 ---
 title: "Minnesota COVID Report"
+author: Tenzin Nyima
 format: gfm
 execute: 
   eval: true
