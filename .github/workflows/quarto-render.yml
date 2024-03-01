@@ -7,7 +7,6 @@ schedule:
 push:
    branches: main
    workflow_dispatch:
-# hi
 name: Render Report
 
 jobs:
