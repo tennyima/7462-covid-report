@@ -1,7 +1,7 @@
-on: [workflow_dispatch]
+#on: [workflow_dispatch]
 
 #Un-comment the following lines (and comment out the first one) to make this a scheduled job
-#on:
+on:
 schedule:
 - cron:  '0 22 * * *'
 push:
