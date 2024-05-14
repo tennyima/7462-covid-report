@@ -1,7 +1,7 @@
 # Minnesota COVID Report
 Tenzin Nyima
 
-Report last run: 2024-05-13 22:19:01
+Report last run: 2024-05-14 22:14:48
 
 ## Introduction
 
